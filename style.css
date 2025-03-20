@@ -1,0 +1,57 @@
+
+
+body {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+
+
+
+.nome {
+    width: 50%;
+    height: 30px;
+    background-color: rgb(236, 229, 229);
+    
+}
+
+.info {
+    
+    width: 50%;
+    height: 65px;
+    background-color: rgb(248, 241, 241);   
+
+}
+
+.Formação {
+
+    width: 50%;
+    height: 50px;
+    background-color: rgb(236, 229, 229);
+    
+
+}
+
+.info2 {
+    
+    width: 50%;
+    height:  150px;
+    background-color: rgb(240, 237, 237);   
+    
+}
+
+.skl {
+    
+    width: 50%;
+    height:  110px;
+    background-color: rgb(240, 237, 237);     
+    
+}
+
+.hr {
+    width: 50%;
+    text-align: left;
+    margin-right: 90%;
+
+}
